@@ -1,0 +1,15 @@
+#name-input, #tag-input{
+    width:95%;
+    height: 30px;
+    outline: none;
+    border: none;
+    border-bottom: .5px solid; 
+    font-size: 24px;
+    margin: auto, auto;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.list{
+    height: 700px;   
+    overflow-y:scroll;
+}

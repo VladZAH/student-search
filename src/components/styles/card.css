@@ -1,0 +1,63 @@
+.card{
+    border-bottom: 1px solid gray;
+    overflow: visible;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border: 1px solid gray;
+    border-radius: 50%;
+    float: left;
+    margin-left: 50px;
+}
+.description{
+    margin-left: 220px;
+    text-align: left;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 0.75em;
+}
+.info{
+    margin-left: 20px;
+    text-align: left;
+}
+.Name{
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 0.75em;
+}
+.expand-btn{
+    padding-bottom: 20px;
+    line-height: 0.1;
+    margin-right: 20px;
+    outline: none;
+    float: right;
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    border: none;
+    font-size: 60px;
+}
+.expanded{
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+.expanded2{
+    margin-bottom: 20px;
+}
+.tag{
+    padding: 5px; 
+    border-radius: 5px;
+    margin-right: 5px;
+    background: lightgray;
+    text-align: center;
+    display: inline;
+}
+.​add-tag-input{
+    width: 25%;
+    outline: none;
+    border: none;  
+    font-size: 20px;
+    border-bottom: 0.5px solid grey;
+    margin-bottom: 20px;
+}

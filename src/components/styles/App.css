@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(240, 240, 240);
+}
+.App{
+    text-align: center; 
+    background-color: white;
+    max-width:60%;
+    margin:6rem auto;    
+    border-radius: 15px;
+}
